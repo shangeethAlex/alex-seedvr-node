@@ -29,7 +29,7 @@ Documentation = "https://github.com/shangeethAlex/alex-seedvr-node/wiki"
 "Bug Tracker" = "https://github.com/shangeethAlex/alex-seedvr-node/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "alex-shangeeth"
 DisplayName = "alex-seedvr-node"
 Icon = ""
 includes = [] 
