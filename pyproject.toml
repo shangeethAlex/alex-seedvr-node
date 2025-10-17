@@ -1,7 +1,7 @@
 [project]
-name = "alex-seedvr-node"
+name = "alex-dix-new"
 description = ""
-version = "1.0.1"
+version = "1.1.1"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
@@ -29,7 +29,7 @@ Documentation = "https://github.com/shangeethAlex/alex-seedvr-node/wiki"
 "Bug Tracker" = "https://github.com/shangeethAlex/alex-seedvr-node/issues"
 
 [tool.comfy]
-PublisherId = "alex-shangeeth"
+PublisherId = "assa"
 DisplayName = "alex-seedvr-node"
 Icon = ""
 includes = [] 
